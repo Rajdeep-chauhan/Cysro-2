@@ -21,7 +21,7 @@ body {
 .logo {
   font-size: 24px;
   font-weight: bold;
-  color: #58A6FF;
+  color: #0dd317;
 }
 
 .search-bar {
@@ -94,7 +94,7 @@ body {
   transform: translateX(0);
 }
 .hero {
-  margin-left: 220px;
+  margin-left: 120px;
   padding: 50px;
   text-align: center;
 }
@@ -245,19 +245,19 @@ footer {
 footer {
   background-color: #1e1e1e;
   color: #fff;
-  padding: 20px 40px;
+  padding: 5px 10px;
 }
 
 .footer-content {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .footer-section {
-  min-width: 150px;
-  margin-bottom: 20px;
+  min-width: 100px;
+  margin-bottom: 1%;
 }
 
 .footer-section h4 {
